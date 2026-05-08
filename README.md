@@ -57,17 +57,6 @@
 - `Assets/SonicShaper/Scripts/Player` — игрок, способности, здоровье
 - `Assets/SonicShaper/Scripts/Puzzles` — двери, плиты, турель, боевые зоны
 - `Assets/SonicShaper/Scripts/Echo` — полярность, эхо-копии, эхо-активаторы
-- `Assets/SonicShaper/Scripts/Editor` — генератор тестовой сцены
-
-## Сцена для тестирования
-
-Сцена собирается автоматически через меню Unity:
-
-`Tools -> Sonic Shaper -> Create Echo Mechanics Test Scene`
-
-Файл сцены:
-
-`Assets/SonicShaper/Scenes/EchoMechanics_Test.unity`
 
 ## Технологии
 
